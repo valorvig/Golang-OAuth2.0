@@ -1,0 +1,9 @@
+run app
+
+login with amazon
+
+fill username password + sign in
+
+redirect to home
+
+fill username password + submit

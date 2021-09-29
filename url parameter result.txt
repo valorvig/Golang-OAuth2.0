@@ -1,0 +1,11 @@
+at login with amazon page
+
+https://na.account.amazon.com/ap/signin?_encoding=UTF8&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.pape.max_auth_age=0&ie=UTF8&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=lwa&openid.assoc_handle=amzn_lwa_na&marketPlaceId=ATVPDKIKX0DER&arb=2df7b8b4-543b-431a-bb75-5c0324fec823&language=en_US&openid.return_to=https%3A%2F%2Fna.account.amazon.com%2Fap%2Foa%3FmarketPlaceId%3DATVPDKIKX0DER%26arb%3D2df7b8b4-543b-431a-bb75-5c0324fec823%26language%3Den_US&enableGlobalAccountCreation=1&metricIdentifier=amzn1.application.223bb628600e4d60a27511d02512fde7&signedMetricIdentifier=FFmYtAB0uELPcg8zPCMRGiPqew1HJ1JuMkW96mb5yA0%3D
+
+redirect to partial register page from amazon
+
+http://localhost:8080/partial-register?email=valor.vignette%40gmail.com&name=valor&sst=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTcxNzIyMTMsIlNJRCI6ImFtem4xLmFjY291bnQuQUVZVllKVTROMzVDWUJRRENVUEpCVVlXRjRKUSJ9.TbQLNPZqYJbggCcbzi6YmNPm5Z3iiVJ11LnvgC9SKjo
+
+redirect to home page
+
+http://localhost:8080/?msg=you+logged+in+valor.vignette%40gmail.com

@@ -1,0 +1,49 @@
+// URL ----------------------
+http://localhost:8080/
+
+LOGIN WITH AMAZON
+
+// URL ----------------------
+https://na.account.amazon.com/ap/signin?_encoding=UTF8&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.pape.max_auth_age=0&ie=UTF8&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=lwa&openid.assoc_handle=amzn_lwa_na&marketPlaceId=ATVPDKIKX0DER&arb=7379da36-8da9-41d5-9017-c9f1792917b9&language=en_US&openid.return_to=https%3A%2F%2Fna.account.amazon.com%2Fap%2Foa%3FmarketPlaceId%3DATVPDKIKX0DER%26arb%3D7379da36-8da9-41d5-9017-c9f1792917b9%26language%3Den_US&enableGlobalAccountCreation=1&metricIdentifier=amzn1.application.223bb628600e4d60a27511d02512fde7&signedMetricIdentifier=FFmYtAB0uELPcg8zPCMRGiPqew1HJ1JuMkW96mb5yA0%3D
+
+email and password
+login
+
+// Terminal ----------------------
+id (state?):  99d9e50b-c088-4e1c-ae50-4326ed30636e
+
+// URL ----------------------
+http://localhost:8080/partial-register?email=valor.vignette%40gmail.com&name=valor&sst=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTcxOTAxOTcsIlNJRCI6ImFtem4xLmFjY291bnQuQUVZVllKVTROMzVDWUJRRENVUEpCVVlXRjRKUSJ9.iV4sgy1Lwv5J9x7qE7yQ-2OPkmk9fZdT3GceRa4Rnh4
+
+name and email
+submit
+
+// Terminal ----------------------
+state:  99d9e50b-c088-4e1c-ae50-4326ed30636e
+authorization code:  ANXYIHQaqtikBysWFeNd
+expT:  2021-03-31 19:27:48.7759899 +0700 +07 m=+3638.202087501
+state, code, expT:  99d9e50b-c088-4e1c-ae50-4326ed30636e ANXYIHQaqtikBysWFeNd 2021-03-31 19:27:48.7759899 +0700 +07 m=+3638.202087501     
+token:  &{Atza|IwEBICWxUMbwu7ya-ymyNNvc09h7gbrUojHeovnBwIEHNeTdykGRzdPBZj41VLSdsBVN41oJfviqB7o1FNhLRqJpp9WCYnlnSMdFY-k7yfeP6B1LfDg09i1UPhCxLuBdFn9fc0dzIW7wBScEKfiJXfl1qjd5t1FSHznls9OcLWMZf3JzzSW_mIKOnJmj7GXmh60Lk6C1dBlbr_gqf2JLQNcXvlJDWWDCQrnJinRjCU_GyLOKpIQK8QTKT2AdPN4p1MXIvY-_B7pT7lM6y4p6CvPSkJH-xYRusNZcJ4h0aqB5Lkoi6Kxj05HgCxfFwQ39JYlNBNzRUAxbkyluk0_ai3V7ND3j7mOuWN2iY1v6fmGhZ13Yv2xYpA7Tq_tOhDEHk4uyHEIRBNAUfxDafnPazPkUvIWaL0IcaKr8sDXFimsY2cOFzg bearer Atzr|IwEBIEorlG_JH2I3HoaF7GwfxqZWYWXWX9f9stjqLmFEVJVmULhBfrb2mCsuxj9isJD6TXh-CLJeIfEl0j12nkj_Nk6fIL3LpAXOqrkj_EullWMKxDWNM-p8FOTqo_9C7hYDrC0ECWDnmhPZCEAEdBDsQ1iYNXkbwOAZEsRc9ETSfkdI2LIIlURHjwOhC4Khzdl85NcnD_2oCdCybMw3whCmDRTns0Z0s_WoXSoJI5jpDlxYVtHV19xTAHDX5aK_CtYR2-Q0wJm_REMB9R4F205n6MMYna0pQAUsS_WU5XwERWesO7-Dp1xv0DYehkk3Q0RpkLUGqk69Ef_1mnAHOphkTrOS9Quu21KVZxSzIqW9vwwQNXz0QzUu1EV4FyzNJ7Nrj-c 2021-03-31 19:28:56.9784061 +0700 +07 m=+3706.404503701 map[access_token:Atza|IwEBICWxUMbwu7ya-ymyNNvc09h7gbrUojHeovnBwIEHNeTdykGRzdPBZj41VLSdsBVN41oJfviqB7o1FNhLRqJpp9WCYnlnSMdFY-k7yfeP6B1LfDg09i1UPhCxLuBdFn9fc0dzIW7wBScEKfiJXfl1qjd5t1FSHznls9OcLWMZf3JzzSW_mIKOnJmj7GXmh60Lk6C1dBlbr_gqf2JLQNcXvlJDWWDCQrnJinRjCU_GyLOKpIQK8QTKT2AdPN4p1MXIvY-_B7pT7lM6y4p6CvPSkJH-xYRusNZcJ4h0aqB5Lkoi6Kxj05HgCxfFwQ39JYlNBNzRUAxbkyluk0_ai3V7ND3j7mOuWN2iY1v6fmGhZ13Yv2xYpA7Tq_tOhDEHk4uyHEIRBNAUfxDafnPazPkUvIWaL0IcaKr8sDXFimsY2cOFzg expires_in:3600 refresh_token:Atzr|IwEBIEorlG_JH2I3HoaF7GwfxqZWYWXWX9f9stjqLmFEVJVmULhBfrb2mCsuxj9isJD6TXh-CLJeIfEl0j12nkj_Nk6fIL3LpAXOqrkj_EullWMKxDWNM-p8FOTqo_9C7hYDrC0ECWDnmhPZCEAEdBDsQ1iYNXkbwOAZEsRc9ETSfkdI2LIIlURHjwOhC4Khzdl85NcnD_2oCdCybMw3whCmDRTns0Z0s_WoXSoJI5jpDlxYVtHV19xTAHDX5aK_CtYR2-Q0wJm_REMB9R4F205n6MMYna0pQAUsS_WU5XwERWesO7-Dp1xv0DYehkk3Q0RpkLUGqk69Ef_1mnAHOphkTrOS9Quu21KVZxSzIqW9vwwQNXz0QzUu1EV4FyzNJ7Nrj-c 
+token_type:bearer]}
+tokenSource:  &{0xc0001844b0 {0 0} 0xc0001b61e0}
+client:  &{0xc0001ac280 <nil> <nil> 0s}
+resp:  &{200 OK 200 HTTP/1.1 1 1 map[Connection:[keep-alive] Content-Language:[en-US] Content-Length:[106] Content-Type:[application/json;charset=UTF-8] Date:[Wed, 31 Mar 2021 11:31:46 GMT] Server:[Server] Vary:[Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent] X-Amz-Date:[Wed, 31 Mar 2021 11:31:46 GMT] X-Amz-Rid:[3NWQ1XHB1QN1Z745PBAJ] X-Amzn-Requestid:[625b6bd8-8ffc-425e-8f22-93ae73d81f00]] 0xc000020380 106 [] false false map[] 0xc000186500 0xc0000c44d0}
+resp.Body:  &{0xc000020340 {0 0} false <nil> 0x7cfec0 0x7cfe40}
+resp.StatusCode:  200
+&pr:  &{amzn1.account.AEYVYJU4N35CYBQDCUPJBUYWF4JQ valor valor.vignette@gmail.com}
+pr:  {amzn1.account.AEYVYJU4N35CYBQDCUPJBUYWF4JQ valor valor.vignette@gmail.com}
+eml:
+st:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTcxOTAxOTcsIlNJRCI6ImFtem4xLmFjY291bnQuQUVZVllKVTROMzVDWUJRRENVUEpCVVlXRjRKUSJ9.iV4sgy1Lwv5J9x7qE7yQ-2OPkmk9fZdT3GceRa4Rnh4
+uv:  map[]
+uv.Encode():
+2021/03/31 18:28:57 index parsetoken couldn't ParseWithClaims in parsetoken token is expired by 1m6s
+
+// oAmazonRegister ----------------------
+
+// URL ----------------------
+http://localhost:8080/
+
+// Terminal ----------------------
+first, email, oauthID:  valor valor.vignette@gmail.com eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTcxOTAxOTcsIlNJRCI6ImFtem4xLmFjY291bnQuQUVZVllKVTROMzVDWUJRRENVUEpCVVlXRjRKUSJ9.iV4sgy1Lwv5J9x7qE7yQ-2OPkmk9fZdT3GceRa4Rnh4
+amazonUID:  amzn1.account.AEYVYJU4N35CYBQDCUPJBUYWF4JQ
+cookie from createSession: {sessionID eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTcxOTAyNTEsIlNJRCI6IjAzNTQzYmM3LTYxNTEtNDhlNS1iYTQyLWI2NjQ1MjY0MTQxMSJ9.AfszMYWq76O7eJa1m6dYrO-T0PFBhYrH1VdgT-_onuA /  0001-01-01 00:00:00 +0000 UTC  0 false false 0  []}
